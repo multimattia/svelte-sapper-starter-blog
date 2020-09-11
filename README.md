@@ -1,5 +1,7 @@
 # sapper-template
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d09462b-4c6a-4da1-aa9e-9d459c32021a/deploy-status)](https://app.netlify.com/sites/sad-villani-aedbb7/deploys)
+
 A [Sapper](https://github.com/sveltejs/sapper) template, that includes Rollup.
 
 This is a fork of the official template, with some differences:
